@@ -32,4 +32,10 @@
     "editor.codeActionsOnSave": {
       "source.fixAll": true
     },
+    // emmet
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+    }
 }
