@@ -1,34 +1,4 @@
 {
-    "vetur.format.defaultFormatterOptions": {
-        "prettier": {
-            "semi": false,
-            "singleQuote": true,
-            "tabWidth": 4
-        }
-    },
-    "vetur.validation.template": true,
-    "vetur.format.options.tabSize": 4,
-    "vetur.format.defaultFormatter.js": "prettier-eslint",
-    "[vue]": {
-        "editor.defaultFormatter": "octref.vetur"
-    },
-    "vetur.format.defaultFormatter.html": "prettier",
-    "eslint.alwaysShowStatus": true,
-    "eslint.validate": [
-        "javascript",
-        "javascriptreact",
-        "vue",
-        "typescript",
-        "typescriptreact"
-    ],
-    "eslint.options": {
-        "extensions": [
-            ".html",
-            ".js",
-            ".vue",
-            ".jsx"
-        ]
-    },
     "editor.codeActionsOnSave": {
       "source.fixAll": true
     },
