@@ -2,6 +2,10 @@
     "editor.codeActionsOnSave": {
       "source.fixAll": true
     },
+    //關閉vetur
+    "vetur.validation.template": false,
+    "vetur.validation.script": false,
+    "vetur.validation.style": false,
     // emmet
     "emmet.triggerExpansionOnTab": true,
     "emmet.includeLanguages": {
